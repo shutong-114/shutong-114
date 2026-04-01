@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am an undergraduate student majoring in **Mathematics (Plan for Strengthening Basic Disciplines)** at **Southeast University (SEU)**, expecting to graduate in 2027. I am eligible for graduate recommendation.
+I am an undergraduate student majoring in **Mathematics (Plan for Strengthening Basic Disciplines)** at **Southeast University (SEU)**, expecting to graduate in 2027.
 
 My primary research interests lie at the intersection of mathematical optimization and autonomous systems. I am passionate about developing theoretical innovations to solve complex coordination problems in open and dynamic environments.
 
