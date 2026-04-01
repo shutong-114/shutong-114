@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hello, I'm YU Gaolei (喻高磊)
+# 👋 Hello, I'm Yu Gaolei (俞高磊)
 
 <p align="center">
   <a href="mailto:gl.yu@seu.edu.cn">
