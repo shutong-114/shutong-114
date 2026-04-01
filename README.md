@@ -1,16 +1,16 @@
 # <p align="center">YU Gaolei</p>
 <p align="center">Tel: +86 187 6768 1715 | Email: gl.yu@seu.edu.cn</p>
-<p align="center">Research Interests: Distributed optimization, Integer programming</p>
-<p align="center">Machine learning theory, Reinforcement learning</p>
+<p align="center">Research Interests: Distributed optimization, Formation Control</p>
+<p align="center">Integer programming, Machine learning theory, Reinforcement learning</p>
 
 ---
 
 ### EDUCATION
 **Southeast University(UG)** <p align="right">Nanjing, CHN | Aug. 2023-Present</p>
 *Mathematics(Plan for Strengthening Basic Disciplines)*
-* **GPA**: 81/100
-* **Coursework**: Higher Algebra and Analytic Geometry(91), Algorithmic Design(98,rank 1), Discrete Mathematics(97), Real Function(86), Optimization Methoed(84), Mathematical Analysis.
-* **Eligible for graduate recommendation**
+
+Coursework: Higher Algebra and Analytic Geometry(91), Algorithmic Design(98,rank 1), Discrete Mathematics(97), Real Function(86), Optimization Methoed(84), Mathematical Analysis.
+
 
 ---
 
@@ -42,9 +42,10 @@
 | Award | Year |
 | :--- | :--- |
 | First Prize, 16th National College Students Mathematics Competition(CMC) | 2024 |
-| Second Prize (Jiangsu Division), 16th the Contest of Lanqiao Cup | 2025 |
 | Third Prize (Jiangsu Division), 33th China Undergraduate Mathematical Contest in Modeling (CUMCM) | 2024 |
+| Second Prize (Jiangsu Division), 16th the Contest of Lanqiao Cup | 2025 |
 | Second Prize, Southeast University Teaching Achievement Award (Undergraduate) | 2025 |
+| Outstanding League Cadres, Youth League Committee of Southeast University | 2026 |
 | Strengthening Basic Disciplines Scholarship | Each year |
 
 ---
