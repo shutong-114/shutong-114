@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yu Gaolei (俞高磊)
+<h1 align="center"> Yu Gaolei (俞高磊)  </h1>
 
 <p align="center">
   <a href="mailto:gl.yu@seu.edu.cn">
@@ -60,7 +60,7 @@ My primary research interests lie at the intersection of mathematical optimizati
 | :--- | :--- | :--- |
 | **First Prize** | $16^{th}$ National College Students Mathematics Competition (CMC) | 2024 |
 | **Strengthening Basic Disciplines Scholarship** | Southeast University | Annually |
-| **Second Prize (JS Division)** | 16th the Contest of Lanqiao Cup | 2025 |
+| **Second Prize (JS Division)** | $16^{th}$ the Contest of Lanqiao Cup | 2025 |
 | **Third Prize (JS Division)** | $33^{th}$ China Undergraduate Mathematical Contest in Modeling (CUMCM) | 2024 |
 
 ---
